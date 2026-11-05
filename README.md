@@ -1,3 +1,8 @@
+> **foxnaim** · Учебный скрипт заражения Android-устройств вирусом через Termux для образовательных целей
+>
+> Готовая основа под клиентский проект. Стек: Shell.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 <p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
